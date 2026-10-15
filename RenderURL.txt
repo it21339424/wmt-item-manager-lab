@@ -1,0 +1,4 @@
+Frontend live URL
+https://wmt-item-manager-frontend-am20.onrender.com/
+Backend live URL
+https://wmt-item-manager-backend-2prx.onrender.com
